@@ -6,16 +6,16 @@ Tugas : Flutter Sqlite
 
 Hasil
 
-![Screenshot](images/01.jpeg)
+![Screenshot](images/1.jpeg)
 
-![Screenshot](images/02.jpeg)
+![Screenshot](images/2.jpeg)
 
-![Screenshot](images/03.jpeg)
+![Screenshot](images/3.jpeg)
 
-![Screenshot](images/04.jpeg)
+![Screenshot](images/4.jpeg)
 
-![Screenshot](images/05.jpeg)
+![Screenshot](images/5.jpeg)
 
-![Screenshot](images/06.jpeg)
+![Screenshot](images/6.jpeg)
 
-![Screenshot](images/07.jpeg)
+![Screenshot](images/7.jpeg)
