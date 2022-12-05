@@ -4,18 +4,37 @@
 
 Tugas : Flutter Sqlite
 
-Hasil
+## Hasil
 
-![Screenshot](images/01.jpeg)
+## Halaman utama
 
-![Screenshot](images/02.jpeg)
+![Screenshot](images/1.jpeg)
 
-![Screenshot](images/03.jpeg)
+## Form Tambah
 
-![Screenshot](images/04.jpeg)
+![Screenshot](images/2.jpeg)
 
-![Screenshot](images/05.jpeg)
 
-![Screenshot](images/06.jpeg)
+## Hasil Tambah
 
-![Screenshot](images/07.jpeg)
+![Screenshot](images/3.jpeg)
+
+
+## Form Ubah/Edit
+
+![Screenshot](images/4.jpeg)
+
+
+## Hasil Ubah
+
+![Screenshot](images/5.jpeg)
+
+
+## Tambah beberapa data
+
+![Screenshot](images/6.jpeg)
+
+
+## Hasil hapus data "Gula"
+
+![Screenshot](images/7.jpeg)
