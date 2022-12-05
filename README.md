@@ -20,17 +20,17 @@ Tugas : Flutter Sqlite
 ![Screenshot](images/3.jpeg)
 
 
-## Form Ubah/Edit
+## Hasil tambah beberapa barang
 
 ![Screenshot](images/4.jpeg)
 
 
-## Hasil Ubah
+## Form Ubah/Edit
 
 ![Screenshot](images/5.jpeg)
 
 
-## Tambah beberapa data
+## Hasil Ubah/Edit data stok "Garam"
 
 ![Screenshot](images/6.jpeg)
 
