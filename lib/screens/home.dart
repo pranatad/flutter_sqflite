@@ -24,7 +24,8 @@ class HomeState extends State<Home> {
     itemList ??= <Item>[];
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Daftar Item'),
+        title:
+            const Text('Daftar Item \nPranata Dito Fitriyansyah - 2041720043'),
       ),
       body: Column(
         children: [
